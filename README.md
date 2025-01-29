@@ -9,5 +9,5 @@ This notebook explores the eigenvalues of the Kitaev honeycomb model.
   
 ## Key Steps:
 
--Theory: The Kitaev model is an exactly solvable model on a two-dimensional honeycomb lattice. In this notebook we consider the original Kitaev's model and fill it with \pi/2 flux.
--Analysis: The energy splitting with respect to the nearest neighbour hopping parameter gives us an indication of the topological nature of the system.
+- Theory: The Kitaev model is an exactly solvable model on a two-dimensional honeycomb lattice. In this notebook we consider the original Kitaev's model and fill it with \pi/2 flux.
+- Analysis: The energy splitting with respect to the nearest neighbour hopping parameter gives us an indication of the topological nature of the system.
